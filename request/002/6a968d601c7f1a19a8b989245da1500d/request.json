@@ -1,0 +1,18 @@
+{
+    "headers": {
+        "Content-Type": "application/json",
+        "User-Agent": "sentinelhub-py/v3.1.0"
+    },
+    "payload": {
+        "crs": "EPSG:4326",
+        "geometry": "POLYGON ((26.09425421553442 85.85621926883206, 26.09362655891632 85.85593419347994, 26.09340357380299 85.85662388640725, 26.09398993624163 85.85686298518884, 26.09425421553442 85.85621926883206))",
+        "layer": "CLM",
+        "maxcc": 60.0,
+        "resolution": "10m",
+        "service": "fis",
+        "time": "2020-01-31T00:00:00/2020-06-30T23:59:59",
+        "warnings": false
+    },
+    "timestamp": "2021-04-24T09:59:13.722736",
+    "url": "https://services.sentinel-hub.com/ogc/fis/a133ef7f-d177-470e-9b55-8bffd1ff16e6"
+}
